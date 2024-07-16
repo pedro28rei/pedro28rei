@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pedro Rei 👋
 
-<!--
-**pedro28rei/pedro28rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💻 I am a Fullstack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am studying at Instituto Politécnico do Cávado e do Ave (IPCA) | Computer Systems Engineering
+
+🔎 I am also curious about technology, artificial intelligence, machine learning, and web development.
+
+✒️ In my free time, I enjoy writing, exploring nature, reading, playing sports, cooking, and discovering new places.
+
+📚 Reading: [The Saint, the Surfer, and the CEO by Robin Sharma]
+
+I have worked with... 🔧
