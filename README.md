@@ -17,7 +17,7 @@
 
 <h3 align="left">Get in touch with me!</h3>
 
-<div>
+<div target="blank">
     <a href="https://www.linkedin.com/in/pedro28rei" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="text-decoration: none;" />
     </a>
