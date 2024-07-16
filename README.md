@@ -10,10 +10,10 @@
 
 ✒️ In my free time, playing sports, cooking, and discovering new places.
 
-*I have worked with... 🔧*
+**I have worked with... 🔧**
 
-*I am studying... 🧩*
+**I am studying... 🧩**
 
-*Courses Completed 🤓*
+**Courses Completed 🤓**
 
-*Get in touch with me! 📭*
+**Get in touch with me! 📭**
