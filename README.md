@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-  <a href="https://linkedin.com/pedro28rei" target="blank">
+  <a href="https://linkedIn.com/pedro28rei" target="blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:pedro28rei@gmail.com" target="blank">
