@@ -23,7 +23,5 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro28rei)
 <a href="https://instagram.com/pedro28rei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedro28rei" height="30" width="40" /></a>
 </p>
