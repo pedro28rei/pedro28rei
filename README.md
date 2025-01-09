@@ -4,7 +4,7 @@
 
 👨‍💼 I am 22 years old and i live in city of Braga.
 
-💻 I am not working at moment, but i am looking for a curricular intership for my 3º year of my degree.
+💻 I am not working at moment, but i will do a curricular intership for my 3º year of my degree.
 
 🎓 I am a Computer Systems Engineering student at Instituto Politécnico do Cávado e do Ave (IPCA).
 
@@ -30,9 +30,6 @@
     </a>
     <a href="https://twitter.com/pedro28rei" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="text-decoration: none;" />
-    </a>
-    <a href="https://discord.com/users/pedro28rei" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="text-decoration: none;" />
     </a>
 </div>
 
