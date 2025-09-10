@@ -2,11 +2,9 @@
 
 <h3>About Me</h3>
 
-👨‍💼 I am 22 years old and i live in city of Braga.
+👨‍💼 I am 23 years old and i live in city of Braga.
 
-💻 I am not working at moment, but i will do a curricular intership for my 3º year of my degree.
-
-🎓 I am a Computer Systems Engineering student at Instituto Politécnico do Cávado e do Ave (IPCA).
+🎓 I have BSc in Computer Systems Engineering - IPCA .
 
 🔎 I am curious about technology, and at moment the areas that interest me most are frontend and web development.
 
