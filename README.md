@@ -23,12 +23,6 @@
     <a href="mailto:pedro28rei@gmail.com" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="text-decoration: none;" />
     </a>
-    <a href="https://www.instagram.com/pedro28rei" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="text-decoration: none;" />
-    </a>
-    <a href="https://twitter.com/pedro28rei" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="text-decoration: none;" />
-    </a>
 </div>
 
 ###
